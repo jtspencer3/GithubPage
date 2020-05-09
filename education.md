@@ -8,6 +8,7 @@
  Information Technology
 
 August 2018 — Present
+
 Expected Graduation Date: May 2022
 
 ___
