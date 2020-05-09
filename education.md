@@ -10,25 +10,26 @@
 August 2018 — Present
 Expected Graduation Date: May 2022
 
+___
 
 ### __Relevant Courses__
 
-__IT 2040 Programming Languages and Paradigms__
+* __IT 2040 Programming Languages and Paradigms__
 
-Implemented algorithms and data structures to solve problems while utilizing object-oriented
+    * Implemented algorithms and data structures to solve problems while utilizing object-oriented
 programming as well as other programming paradigms in C#.
 
-__CS 1050 Algorithm Design/Programming__
+* __CS 1050 Algorithm Design/Programming__
 
-Provided experience in developing algorithms and designing and implementing programs.
+    * Provided experience in developing algorithms and designing and implementing programs.
 
-__Math 1500 Calculus 1__
-
-
+* __Math 1500 Calculus 1__
 
 
 
 
 
 
-###### Back to [home](./homepage.md)
+
+
+###### Back to [home](./README.md)
